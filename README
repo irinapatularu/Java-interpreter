@@ -1,1 +1,3 @@
-	My first Java project.
+	Given a programming language, the application receives as input
+a program code and it has to verify the correctness and calculate the 
+value returned by this program
